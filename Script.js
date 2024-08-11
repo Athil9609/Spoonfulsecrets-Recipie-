@@ -43,7 +43,7 @@ res.then(resolve => resolve.json()).then(val => {
         
       </div>
       <div class="modal-footer text-center">
-      <a href="${element.strYoutube}" class="btn btn-outline-dark">Watch vedio</a>
+      <a href="${element.strYoutube}" class="btn btn-outline-dark">Watch video</a>
       </div>
     </div>
   </div>
